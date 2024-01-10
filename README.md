@@ -1,6 +1,8 @@
+
+<img alt="coding" width="100%" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" /> 
 <h1 align="center">Hi 👋, I'm B.Dhanunjaya</h1>
 <h3 align="center">A passionate Full Stack Development</h3>
-<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" /> 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushappagari-dhanunjaya&label=Profile%20views&color=0e75b6&style=flat" alt="bushappagari-dhanunjaya" /> </p>
