@@ -1,5 +1,5 @@
 
-<img alt="coding" width="100%" height="100" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" /> 
+<img alt="coding" width="100%" style="height:300px;object-fit:cover;" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" /> 
 <h1 align="center">Hi 👋, I'm B.Dhanunjaya</h1>
 <h3 align="center">A passionate Full Stack Development</h3>
 
