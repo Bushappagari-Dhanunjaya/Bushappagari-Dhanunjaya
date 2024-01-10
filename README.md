@@ -1,7 +1,7 @@
 
 <img alt="coding" width="100%" style="height:350px;object-fit:cover;" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" /> 
 <h1 align="center">Hi 👋, I'm B.Dhanunjaya</h1>
-<h3 align="center">A passionate Full Stack Development</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 
 
